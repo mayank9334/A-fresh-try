@@ -1,0 +1,50 @@
+.nav-item { display:inline-block;
+  margin-left: 10px;
+}
+
+.navbar {margin: 0; 
+      background-color: rgba(24,200,200,0.7);
+      background-image: linear-gradient(to bottom,pink ,purple);
+      
+      display: block;
+}
+
+h1{ color:rgb(255,0,0);
+    background-color: rgba(24, 200, 200,0.2);
+}
+
+p {margin-top: 10px;
+  padding-left: 10px;
+  color: rgb(255,255,255);
+}
+
+.html-heading{ margin-top: 100px;}
+
+.bot {  
+        position: fixed;
+        right: 10px;
+        bottom: 10px;
+        
+}
+.bot {width: 100px;}
+
+
+a:link { color: rgba(2,0,255,1);}
+a:visited { color: rgba(255,0,0,1);}
+a:hover { color: rgba(150,0,255,1);}
+.float-right{float: left;
+}
+
+.float-left{ float: right; }
+body { background-image: linear-gradient(to right,  pink, gray);
+background-image: url('/images (5).jpeg');
+background-repeat: no-repeat;
+backface-visibility: hidden ;
+background-size: cover;
+
+.mayank{ height: 50px;
+        width: device;
+        background-image: linear-gradient(to bottom , pink , orange );
+        align-content: center;
+        justify-content: flex-start;
+        padding-left: 40%; }
