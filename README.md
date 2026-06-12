@@ -1,2 +1,2 @@
 # A-fresh-try
-To learn git
+To learn git. it was just a try !
